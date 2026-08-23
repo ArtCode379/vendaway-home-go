@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-23T23:02:26.336612+00:00",
+  "slug": "vendaway-home-go",
+  "type": "shop",
+  "package": "vendaway.housewares.vendawayhomego",
+  "prefix": "OJFXT",
+  "app_name": "Vendaway Home Go",
+  "task_gid": "1217445085646234",
+  "task_name": "GB GW4 C1517",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217445085646234",
+  "domain": "https://vendaway.surf",
+  "company": "VENDAWAY LTD",
+  "repo_url": "https://github.com/ArtCode379/vendaway-home-go",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}

@@ -5,7 +5,7 @@
     <string name="ojfxt_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="ojfxt_top_bar_home_title">Home/App Title</string>
+    <string name="ojfxt_top_bar_home_title">Vendaway Home Go</string>
     <string name="ojfxt_top_bar_cart_title">Cart</string>
     <string name="ojfxt_top_bar_checkout_title">Checkout</string>
     <string name="ojfxt_top_bar_orders_title">Orders</string>
@@ -57,16 +57,21 @@
 
     <!-- checkout dialog -->
     <string name="ojfxt_checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="ojfxt_checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
+    <string name="ojfxt_checkout_success_message">Your reservation is confirmed. Your order number is ready in Orders, and your items will be held in store for 24 hours.</string>
     <string name="ojfxt_checkout_dialog_confirm">Done</string>
 
     <!-- settings screen -->
     <string name="ojfxt_settings_screen_company_label">Company</string>
     <string name="ojfxt_settings_screen_version_label">Version</string>
     <string name="ojfxt_settings_screen_customer_support_label">Customer Support</string>
-    <string name="ojfxt_company_name">Company Name</string>
-    <string name="ojfxt_app_version">1.0.0</string>
-    <string name="ojfxt_customer_support_link">https://website.org/</string>
+    <string name="ojfxt_company_name">VENDAWAY LTD</string>
+    <string name="ojfxt_app_version">1.0</string>
+    <string name="ojfxt_customer_support_link">https://vendaway.surf</string>
+
+    <string name="category_kitchen">Kitchen</string>
+    <string name="category_electronics">Electronics</string>
+    <string name="category_home">Home</string>
+    <string name="category_seasonal">Seasonal</string>
 
     <!-- clear cart dialog -->
     <string name="ojfxt_clear_cart_dialog_title">Clear cart?</string>
